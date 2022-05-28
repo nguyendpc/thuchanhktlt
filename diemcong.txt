@@ -1,4 +1,6 @@
-Giáp Văn Tài (63135353) 0.5
-Trần Quốc Khánh (63132166) 0.5
+63135353 Giáp Văn Tài 0.5
+63132166 Trần Quốc Khánh 0.5
 63135188 Nguyễn Anh Quân 1
 63136126 Huỳnh Nam Vũ 0.5
+63134661 Trần Hoàng Vũ My 1
+
