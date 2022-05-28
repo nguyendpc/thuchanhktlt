@@ -1,7 +1,7 @@
 #include <iostream>
 #include <math.h>
 using namespace std;
-
+// code chua hoan thien
 int n;
 int trangThai[3] = {-1,0,1};
 int mangLuuKg[10000];
