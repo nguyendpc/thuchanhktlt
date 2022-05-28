@@ -18,15 +18,12 @@ void inMang(){
 }
 
 
-
 void chinhHopLap(int j){
 	for(int i = 0; i < n; i++){
 		mang[j] = mangGiaTri[i];
 		if(j <  k - 1 ) chinhHopLap(j+1);
 		else
-			inMang();
-			
-			
+			inMang();	
 	}
 }
 

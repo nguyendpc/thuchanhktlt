@@ -29,9 +29,9 @@ void soSanhCan(int listQuaCan[], int listQuaCanTemp[]){
 			}
 		}
 		if(check== true){
+			cout << tong << " ";
 			mangLuuKg[dem] = tong;
 			++dem;
-			cout << tong << " ";
 		}	
 	}
 }

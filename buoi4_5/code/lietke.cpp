@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int A[2] = {3,4};
+int A[2] = {0,1};
 int ab[2] = {0,0};
 
 void inkqua(){
