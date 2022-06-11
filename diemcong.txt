@@ -1,11 +1,16 @@
 63135353 Giáp Văn Tài 1
 63132166 Trần Quốc Khánh 0.5
 63135188 Nguyễn Anh Quân 1
-63136126 Huỳnh Nam Vũ 0.5
-63134661 Trần Hoàng Vũ My 1
+63136126 Huỳnh Nam Vũ 1
+63134661 Trần Hoàng Vũ My 1.5
 63132732 Trí 0.5
 63134128 Hùng 1
 63132946 Hiệp 0.5
 63135210 Quốc 1
+63132204 Tấn Lập 1
+63131545 Minh Trí 1
+63133173 Hưng 0.5
+63132691 Anh Tín 0.5
+63133716 Ngọc Đô 1
 
 
